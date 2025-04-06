@@ -1,1 +1,1 @@
-# Lesson-6
+# Lesson-6 Had some trouble finding the command extraction. But in this lesson it's a stepping stone into how you want to design your webpage but really letting the tools work for you in the sense of saving time anf effort when redesigning from a template. The Extraction allows you to copy style and fonts that you want to trsansfer from any file you want to not hvae to worry about the extra color or even font.
